@@ -14,10 +14,16 @@ DO NOT INCLUDE SENSITIVE INFORMATION AS THIS AREA IS PUBLIC
 
 ------------------
 
-PAGE URL: 
+### PAGE URL:  
+[url]
 
-STEPS TO REPEAT (1,2,3,etc):
+### STEPS TO REPEAT (1,2,3,etc):  
+1.
+2.
+3.
 
-SHORT DESCRIPTION:
+### SHORT DESCRIPTION: 
+[description]
 
-ISSUE:
+### ISSUE:
+[issue]
